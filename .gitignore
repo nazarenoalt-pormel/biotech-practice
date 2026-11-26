@@ -1,0 +1,30 @@
+# Bytecode / caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Entorno / secretos
+.env
+
+# Editores / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
